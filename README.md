@@ -55,7 +55,7 @@
 ## 📄 法律与隐私 (Legal)
 
 - **隐私政策**：详情请参阅 [PRIVACY.md](PRIVACY.md)。
-- **技术支持**：如有任何问题，请提交 [Issue](https://github.com/zhenyuwang/TimeTraces/issues) 或联系开发者。
+- **技术支持**：如有任何问题，请提交 [Issue](https://github.com/Timozer/TimeTraces/issues) 或联系开发者。
 
 ---
 

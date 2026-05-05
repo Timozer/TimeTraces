@@ -43,7 +43,7 @@
 ### 7. 联系我们
 
 如果您对本隐私政策有任何疑问，可以通过以下方式联系我们：
-*   GitHub Issue: [https://github.com/zhenyuwang/TimeTraces/issues](https://github.com/zhenyuwang/TimeTraces/issues)
+*   GitHub Issue: [https://github.com/Timozer/TimeTraces/issues](https://github.com/Timozer/TimeTraces/issues)
 
 ---
 
@@ -84,4 +84,4 @@ All processing is performed locally on your device.
 
 ### 6. Contact Us
 
-If you have questions, please contact us via GitHub Issues: [https://github.com/zhenyuwang/TimeTraces/issues](https://github.com/zhenyuwang/TimeTraces/issues)
+If you have questions, please contact us via GitHub Issues: [https://github.com/Timozer/TimeTraces/issues](https://github.com/Timozer/TimeTraces/issues)
